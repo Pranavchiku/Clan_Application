@@ -34,7 +34,14 @@ Step 4:
 flutter clean
 ```
 Step 5: 
+
 ```
 flutter upgrade
 ```
 ## Screenshots:
+<p float="left">
+<img src = "https://github.com/Pranavchiku/Clan_Application/blob/main/App%20images/1.jpg?raw=true" width="150" height="300">
+<img src = "https://github.com/Pranavchiku/Clan_Application/blob/main/App%20images/2.jpg?raw=true" width="150" height="300">
+<img src = "https://github.com/Pranavchiku/Clan_Application/blob/main/App%20images/3.jpg?raw=true" width="150" height="300">
+<img src = "https://github.com/Pranavchiku/Clan_Application/blob/main/App%20images/4.jpg?raw=true" width="150" height="300">
+</p>
